@@ -16,4 +16,4 @@ Here you will only learn your body to do certain fighting moves without thinking
 
 -
 
-# Time Spend(2H)
+# Time Spend(3H)
