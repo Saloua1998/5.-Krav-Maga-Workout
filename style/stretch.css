@@ -1,0 +1,9 @@
+.stretches {
+  display: grid;
+  grid-template-columns: repeat(3, 16.67vw);
+  grid-template-rows: repeat(2, 35vh);
+}
+.stretch {
+  height: 35vh;
+  width: 16.67vw;
+}
