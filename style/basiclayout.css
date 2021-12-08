@@ -5,32 +5,13 @@ body {
   text-align: center;
   font-weight: bold;
   margin: 0;
-}
-h1,
-h2,
-h3 {
-  text-shadow: 2px 2px rgb(50, 50, 50);
-  margin: 0.5em;
-}
-a {
-  text-decoration: none;
   display: flex;
-  flex-direction: column;
-  color: white;
-}
-a:visited {
-  text-decoration: none;
-  color: white;
+  text-shadow: 2px 2px rgb(50, 50, 50);
 }
 main {
   background-color: rgb(0, 160, 160);
-  align-self: center;
   height: 95vh;
   width: 50vw;
-}
-img {
-  width: 50vw;
-  height: 70vh;
 }
 footer {
   background-image: linear-gradient(rgb(0, 160, 160), rgb(0, 130, 130));
@@ -39,5 +20,33 @@ footer {
   line-height: 5vh;
   width: 50vw;
   color: rgb(220, 220, 220);
-  text-shadow: 1px 1px #000;
+}
+.backbtn,
+.nextbtn {
+  width: 25vw;
+  height: 100vh;
+  justify-content: center;
+}
+.fas {
+  font-size: 5em;
+  color: rgb(50, 50, 50);
+}
+.fas:hover {
+  color: white;
+  color: rgb(100, 100, 100);
+}
+h1,
+h2,
+h3 {
+  margin: 0em;
+  padding: 0.5em;
+}
+a {
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+}
+img {
+  width: 50vw;
+  height: 70vh;
 }
