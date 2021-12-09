@@ -18,4 +18,4 @@ Here you will only learn your body to do certain fighting moves without thinking
   Level 1: Stability, Flexibility, Basic Stance and Punches
   Level 2:
 
-# Time Spend(4H)
+# Time Spend(6H)

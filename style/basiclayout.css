@@ -51,10 +51,13 @@ img {
   height: 70vh;
 }
 
+/* FINAL SCREEN */
 .quote {
   background-color: black;
   text-align: center;
 }
+
+/* HOME SCREEN */
 
 /* Level Buttons */
 .levelbtns {
@@ -63,27 +66,42 @@ img {
   gap: 0.2em;
   margin: 0 0.2em 0 0.2em;
 }
-.levelbtns a {
-  color: white;
-}
+
 button {
-  border-radius: 0.5em;
+  border-radius: 0.3em;
   padding: 0.5em 1.5em;
   font-weight: bold;
   font-size: 1.1em;
+  color: white;
+  text-shadow: 1.5px 1.5px rgb(100, 100, 100);
 }
-button:nth-child(1) {
+.lvl1 {
   background-color: rgb(0, 220, 50);
 }
-button:nth-child(2) {
+.lvl1:hover {
+  background-color: rgb(0, 210, 40);
+}
+.lvl2 {
   background-color: rgb(250, 200, 0);
 }
-button:nth-child(3) {
+.lvl2:hover {
+  background-color: rgb(240, 190, 0);
+}
+.lvl3 {
   background-color: rgb(250, 150, 0);
 }
-button:nth-child(4) {
+.lvl3:hover {
+  background-color: rgb(240, 140, 0);
+}
+.lvl4 {
   background-color: rgb(250, 100, 0);
 }
-button:nth-child(5) {
+.lvl4:hover {
+  background-color: rgb(240, 90, 0);
+}
+.lvl5 {
   background-color: rgb(250, 0, 0);
+}
+.lvl5:hover {
+  background-color: rgb(240, 0, 0);
 }
