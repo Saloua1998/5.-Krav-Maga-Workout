@@ -10,12 +10,9 @@ Here you will only learn your body to do certain fighting moves without thinking
 
 # Learned:
 
--
+- How to make a workout app
+- Learned to better work with iframes
 
 # Improvement points:
 
-- Make 10 levels
-  Level 1: Stability, Flexibility, Basic Stance and Punches
-  Level 2:
-
-# Time Spend(6H)
+# Time Spend(8H)

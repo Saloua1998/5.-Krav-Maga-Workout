@@ -56,6 +56,31 @@ img {
   background-color: black;
   text-align: center;
 }
+.lvl1banner {
+  border-top: black 0.2em solid;
+  border-bottom: black 0.2em solid;
+  background-image: linear-gradient(rgb(0, 240, 60), rgb(0, 190, 30));
+}
+.lvl2banner {
+  border-top: black 0.2em solid;
+  border-bottom: black 0.2em solid;
+  background-image: linear-gradient(rgb(255, 220, 0), rgb(230, 180, 0));
+}
+.lvl3banner {
+  border-top: black 0.2em solid;
+  border-bottom: black 0.2em solid;
+  background-image: linear-gradient(rgb(255, 170, 0), rgb(230, 130, 0));
+}
+.lvl4banner {
+  border-top: black 0.2em solid;
+  border-bottom: black 0.2em solid;
+  background-image: linear-gradient(rgb(255, 120, 0), rgb(230, 80, 0));
+}
+.lvl5banner {
+  border-top: black 0.2em solid;
+  border-bottom: black 0.2em solid;
+  background-image: linear-gradient(rgb(255, 0, 0), rgb(200, 0, 0));
+}
 
 /* HOME SCREEN */
 
