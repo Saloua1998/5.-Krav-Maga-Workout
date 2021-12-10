@@ -8,10 +8,13 @@ BUT you don't learn to fight without fighting!
 So you need to find a sparring partner or go to a krav maga school to actually learn the sport.
 Here you will only learn your body to do certain fighting moves without thinking.
 
+Op Home to start app (If that doesn't work Open it with Live Server)
+
 # Learned:
 
 - How to make a workout app
 - Learned to better work with iframes
+- How to work with different layouts
 
 # Improvement points:
 
